@@ -11,10 +11,3 @@ In bullet points, list out information that will form the basis of any SLAs or S
 
 In another bullet point list, we should list out the things are specifically **NOT** going to be targets.
 
-## Service Level Agreement (SLA)
-If we are responsible to an outside party, we need to document what we've agreed to do.
-If there are different agreements to different parties, each should be identified here.
-
-## Service Level Objective (SLO)
-These are our internal targets for the service, and should include availability targets as well as performance targets.
-
