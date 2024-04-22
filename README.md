@@ -10,3 +10,13 @@ I generally try to start my solution architecture by filling out a runbook, so t
 (and later answers!) that I have from the various stakeholders. Once I have enough information to roughly understand
 how people and other systems will use the system, then the completed runbook becomes my final project artifact.
 
+## Why Markdown?
+The [Markdown format](https://www.markdownguide.org/basic-syntax/) is a low-effort way to write documentation.
+It can also be used to produce output in other formats (eg HTML) for easier consumption for other teams.
+
+## About this Repository
+The format of my runbooks has changed over time, as I find myself re-inventing it wherever I go.
+I've recorded this here so that I can use it and now so can you.
+
+Enjoy!
+
