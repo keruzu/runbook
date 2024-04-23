@@ -6,7 +6,7 @@
 | Last update | xxxx / xx / xx |
 | Symptoms | |
 | Impact | data loss / latency / availability / cosmetic |
-| Impact severity | high, medium, low type severity |
+| Impact severity | high, medium, low type |
 | Remediation status | remediation / workaround / resolution |
 | Resolution status | active / backlog / intake / unfixable / will not address |
 
