@@ -33,6 +33,7 @@ We should be ensuring that our long tail of responses doesn't have issues (eg 95
 
 
 | Microservice | API | Response Time Target (ms) |
+| --- | --- | --- |
 | A | B | 25 |
 | A | C | 5 |
 | X | Y | 30 |
