@@ -5,7 +5,7 @@ The following tasks are performed automatically.
 
 | Frequency | Scheduler | Description | References |
 | --- | --- | --- | --- |
-| Daily | All AWS Accounts AWS Eventbridge | Summarization for health checks | [Troubleshooting](xxx) |
+| Daily | All AWS Accounts via AWS Eventbridge | Summarization for health checks | [Troubleshooting](xxx) |
 | 0 1 * * * | `crontab` on device 127.0.0.1 | Heartbeat source for SLO checks | [Crontab format](https://en.wikipedia.org/wiki/Cron) |
 
 
