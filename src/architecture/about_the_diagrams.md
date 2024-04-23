@@ -1,6 +1,9 @@
 # About the Diagrams
 I prefer the [C4 Model](https://c4model.com/) for diagrams.
 
+The enterprise may want to use something like [Archimate](https://www.archimatetool.com/) for building out a more comprehensive automated library
+and registration system.
+
 According to the model, there are four levels of detail:
 
 * **System Context**: All stakeholders should be able to read and understand this section. No product names, just areas of responsibility.

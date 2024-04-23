@@ -1,20 +1,28 @@
 # Component Map
-For each component, a separate page that headlines the Component diagram.
+[Component diagram](xxx)
+
+Summary of the service definitions etc here.
 
 Here are the types of information displayed on the top-level page:
 
-* Source code repositories
-* Related AWS accounts, GCP projects or Azure subscriptions
-* Related objects (eg S3 buckets, Kubernetes clusters)
-* IAM roles used
-* Deployment information such as Jenkins configuration required (eg stages, secrets)
-* Secret stores and keys used to 
+## Metadata
 
-Specific feature support is broken out under further pages. Examples of underlying pages:
+| Metadata | Value |
+| --- | --- |
+| Source code repositories | [repo1](xx) [repo2](xxx) |
+| AWS accounts, GCP projects or Azure subscriptions | |
+| Related objects | S3 buckets |
+| IAM roles | |
 
-* Schema descriptions for your data store
-* Input validation controls (eg JSON schema, Python `pydantic`)
-* Feature deep dives
+### Deployment
+Jenkins configuration required and flow
 
+### Secret Stores
+
+| Store | Secret Name | Description |
+| --- | --- | --- |
+| Hashicorp Vault | /path/to/secret | Connection string to database |
+
+## Tags
 Your wki should include tags, so these tags should match procedures for automatic linking.
 
