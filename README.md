@@ -10,6 +10,16 @@ I generally try to start my solution architecture by filling out a runbook, so t
 (and later answers!) that I have from the various stakeholders. Once I have enough information to roughly understand
 how people and other systems will use the system, then the completed runbook becomes my final project artifact.
 
+## About this Repository
+The format of my runbooks has changed over time, as I find myself re-inventing it wherever I go.
+
+I believe in toolboxes, not straitjackets. Things are deliberately a little messy to encourage to delete things or move them around
+as required.
+
+I've recorded this here so that I can use it -- and now so can you!
+
+Enjoy!
+
 ## About the Document Format
 The [Markdown format](https://www.markdownguide.org/basic-syntax/) is a low-effort way to write documentation.
 Markdown lends itself well to being stored in source code systems like `git` and `github` automatically renders
@@ -39,9 +49,4 @@ To build a new version:
 
     % make
 
-## About this Repository
-The format of my runbooks has changed over time, as I find myself re-inventing it wherever I go.
-I've recorded this here so that I can use it -- and now so can you!
-
-Enjoy!
 
