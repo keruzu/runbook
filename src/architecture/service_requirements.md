@@ -1,13 +1,29 @@
 # Service Requirements Definition
 This is where we capture the information that's usually lost to history: functional and non-functional requirements.
 
-## Functional Requirements
-In bullet points, this should be statements that all start with "Our user should be able to ..."
+Larger services will probably have to move this information under the service map area, but we should have something that people can understand. 
 
-In another bullet point list, we should list out the things are specifically **NOT** going to be done.
+## Functional Requirements
+In terms that our users will understand, our users should be able to:
+
+* Have RBAC / ABAC controls applied to them
+* Create their own xxx
+* Remove their own xxx
+* Update their own xxx
+* Delete their own xxx
+
+Our users should NOT be able to:
+
+* Update configuration ABC
 
 ## Non-Functional Requirements
-In bullet points, list out information that will form the basis of any SLAs or SLOs.
+This information will form the basis of SLAs or SLOs.
 
-In another bullet point list, we should list out the things are specifically **NOT** going to be targets.
+* API calls should return within X seconds, Y% of the time
+* The system is available on weekdays between 9am-5pm Eastern
+
+The following are out of scope:
+
+* Earth to Mars teleportation
+* Skynet prototype
 
