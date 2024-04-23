@@ -8,6 +8,7 @@ For example:
 
 ## At a Glance
 | Metadata | Summary |
+| --- | --- |
 | Last update | xxxx / xx / xx |
 | Symptoms | |
 | Impact | |
