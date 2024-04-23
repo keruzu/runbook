@@ -32,6 +32,8 @@ The whizbang service does not provide these features:
 * non-feature
 * non-feature
 
+For a detailed overview of the project scope, see the [requirements document](xxx)
+
 ### RACI Matrix
 Here is how each team is accountable for different tasks:
 
