@@ -21,7 +21,8 @@ Here we define what we are offering to our external customer:
 What do we mean when we say that there is an incident?
 This section should clearly define how we label incidents as there can be significant financial penalities.
 
-Term | Description |
+| Term | Description |
+| --- | --- |
 | Service outage | API endpoints unavailable as measured from external service | 
 | Service impaired | Critical API endpoint responses are unavailable, intermittent or take longer than expected |
 | Service impacted | Non-critical API endpoint responses are unavailable, intermittent or take longer than expected |
