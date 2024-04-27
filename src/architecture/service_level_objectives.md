@@ -3,6 +3,9 @@ These are our internal targets for the service, and should include availability 
 
 Our internal targets should also help define our error budget.
 
+Ideally, your observability tool should be able to keep track of this metric
+and make it easy to add to a larger dashboard.
+
 
 | Target Area | Target | KPI | Measurement Definition |
 | --- | --- | --- | --- |

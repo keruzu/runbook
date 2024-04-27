@@ -5,6 +5,9 @@ If there are different agreements to different parties, each should be identifie
 This should *NOT* be the legal contract. The intent is to ensure that internal people
 are aligned with external requirements.
 
+Ideally, your observability tool should help to track the metrics used for your
+SLA so that your business team can see at a glance how the service is doing.
+
 ## Service Description
 Here we define what we are offering to our external customer:
 
