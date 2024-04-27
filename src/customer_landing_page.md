@@ -16,7 +16,7 @@ responsibilities, go on holidays, etc etc.
 
 ## Example
 
-[System Context diagram](system_context.png) 
+[System Context diagram](system_context.drawio.png) 
 
 
 ### Features
