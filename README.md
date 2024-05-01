@@ -8,7 +8,7 @@ A runbook should be able to answer "What's that???" questions and also "How do I
 
 I generally try to start my solution architecture by filling out a runbook, so then I can capture all of the questions
 (and later answers!) that I have from the various stakeholders. Once I have enough information to roughly understand
-how people and other systems will use the system, then the completed runbook becomes my final project artifact.
+how people and other systems will use the system, then the runbook becomes my final project artifact.
 
 ## About this Repository
 The format of my runbooks has changed over time, as I find myself re-inventing it wherever I go.
@@ -22,7 +22,7 @@ Enjoy!
 
 ## About the Document Format
 The [Markdown format](https://www.markdownguide.org/basic-syntax/) is a low-effort way to write documentation.
-Markdown lends itself well to being stored in source code systems like `git` and `github` automatically renders
+Markdown lends itself well to being stored in source code systems like `git` and `github` as they automatically render
 the pages into HTML format for easy viewing.
 
 ## Converting to Other Formats

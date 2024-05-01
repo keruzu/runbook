@@ -18,5 +18,14 @@ In theory, this isn't necessary because everything is automated. In practice...
 | Daily | Health check | [Daily health check procedure](xxx) |
 | 3 months | Secret refreshes | [Rotate SSL certificates with external provider procedure](xxx) |
 | 6 months | Terraform module reviews | Review service catalog items to ensure relevance |
+| 6 months | Package updates | Update downstream libraries are up-to-date |
 | 6 months | Security review | Audit for compliance and ensure standards are enforced |
+| Yearly | Documentation review | Audit for coherence and that everything is still correct |
+
+## Event-based
+The following tasks might require human intervention.
+
+| Frequency | Operation | Description |
+| --- | --- | --- |
+| 6 months | Time change shutdown | ERP systems might require shutdowns in order to properly handle time change issues |
 
