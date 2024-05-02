@@ -1,6 +1,6 @@
 
 OUTPUT_DIR=output
-OUTPUT_FORMAT=jira
+OUTPUT_FORMAT=html5
 
 # And anything else you need here
 PANDOC_ARGS=

@@ -43,7 +43,7 @@ For example, the default of the `Makefile` is the `jira` format, which is suitab
 If you desire a different format, update the `Makefile` `OUTPUT_FORMAT` to reflect your choice.
 
 ### Building the Output Format
-By default, a brand new directory called `output` will be created and populated with Jira-friendly files.
+By default, a brand new directory called `output` will be created and populated with HTML files.
 
 To build a new version:
 
