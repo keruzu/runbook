@@ -23,9 +23,9 @@ Specifically, what do we need to accomplish?
 ## Execution
 How we get there.
 
-Simple text about the steps to complete the mission.
-
-Should identify who does what specific actions.
+| Owner | Action | ETA | Notes |
+| --- | --- | --- | --- |
+| Fred | Remove debug code | Thursday | Velma to review |
 
 ### Verification
 What does *done* look like?
@@ -44,7 +44,7 @@ Examples:
 ### Resources
 What can we use?
 
-Link to procedures documents
+[Procedures documents](../procedures)
 
 ### Contact Lists
 Who should we talk to about:
@@ -57,20 +57,10 @@ Who should we talk to about:
 
 ## Communications
 
-### Frequency
-Set expectations for how often you will send updates ( >= 1 hour).
-
-### Channels
-Separate emails or instant communications channels for different audiences.
-This will enable your team to maintain expecations and messaging.
-
-Internal communications (eg technical) need to be seperated from business teams.
-
-### External Communications
-These need to be curated so that someone doesn't hear an ETA for a specific task and confuse that with
-service availability.
-
-Specific wordings can cause customer relationship issues. Maintain consistent messages by reviewing with
-authorized teams.
+| Channel | Communicator | Audience | Frequency |
+| --- | --- | --- | --- |
+| Email | Manager | Business team | hourly |
+| Teams channel X | Team | Technical resolvers | |
+| Website | PR team | Outside audience | Twice a day |
 
 
