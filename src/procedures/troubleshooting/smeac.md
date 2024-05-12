@@ -1,5 +1,6 @@
 
 # DevOps Under Pressure
+Use this template to help you structure your response and co-ordinate with multiple teams.
 
 ## Situation
 Describes what we need to know to accomplish anything.
