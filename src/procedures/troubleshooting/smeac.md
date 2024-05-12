@@ -10,13 +10,11 @@ Should also identify the stakes (ie why should we care?).
 
 ### Responsible / Accountable / Consulted / Informed (RACI)
 
-| --- | --- | --- | --- |
 | Activity | Customer | Team #1 | Team #2 |
 | --- | --- | --- | --- |
 | Specify requirements | x | | |
 | Build infrastructure | | x | |
 | Build application | | | x |
-| --- | --- | --- | --- |
 
 ## Mission
 Specifically, what do we need to accomplish?
